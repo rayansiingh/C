@@ -1,4 +1,5 @@
-// // WAP to create an array of integers of size ‘n’ and return difference between the largest and the smallest value.
+// WAP to create an array of integers of size ‘n’ and return difference between the largest and the smallest value.
+
 // #include <stdio.h>
 // #include <limits.h>
 // #define max 1000
@@ -23,12 +24,14 @@
 //         }
 //     }
 //     printf("The difference between the largest and the smallest value is: %d\n", maximum - minimum);
+
+//     return 0;
 // }
 
-// // WAP to create an array with 10 random integers and print 4 lines
-// // of output containing every element at even index, every
-// // element at odd index, all elements in reverse order and only first &
-// // last element
+// WAP to create an array with 10 random integers and print 4 lines
+// of output containing every element at even index, every
+// element at odd index, all elements in reverse order and only first &
+// last element
 
 // #include <stdio.h>
 // #include <time.h>
@@ -72,9 +75,9 @@
 //     return 0;
 // }
 
-// // Consider an integer array of size 5 and display following
-// // a. Sum of all Elements b. Sum of Alternate Elements
-// // c. Second Highest Element
+// Consider an integer array of size 5 and display following
+// a. Sum of all Elements b. Sum of Alternate Elements
+// c. Second Highest Element
 
 // #include <stdio.h>
 // #include <limits.h>

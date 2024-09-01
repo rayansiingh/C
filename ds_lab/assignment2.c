@@ -6,6 +6,8 @@
 // e) deletion at the end
 // f) deletion at a specific position
 
+// DOUBT : The code is running fine in onlin compiler but running an infinite loop in my local machine.
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
